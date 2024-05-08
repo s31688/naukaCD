@@ -1,4 +1,4 @@
-public class AerialVehicle {
+public abstract class AerialVehicle {
     private final int registrationNumber;
     private final String color;
     private final String model;
